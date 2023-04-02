@@ -22,6 +22,6 @@ Langkah berikutnya adalah membuat file .htaccess
 Cara aksesnya menjadi:
 
 • Halaman Home ( http://localhost/lab4_php_moduler/home )
-![2023-04-02 (7)](https://user-images.githubusercontent.com/116356016/229343004-c0542e7d-04f7-4375-9517-8022effeadb0.png)
+![2023-04-02 (7)](https://user-images.githubusercontent.com/116356016/229343310-d1925d66-bfad-4474-ad55-12e02c9401af.png)
 • Halaman About ( http://localhost/lab4_php_moduler/about )
-![2023-04-02 (8)](https://user-images.githubusercontent.com/116356016/229343011-dddff54a-2107-44ae-8a07-a290fa2dd652.png)
+![2023-04-02 (8)](https://user-images.githubusercontent.com/116356016/229343293-6db92436-3ca3-4b89-8426-aa399c21130f.png)
