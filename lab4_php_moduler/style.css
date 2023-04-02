@@ -1,0 +1,42 @@
+/* Set margin and padding to 0 for the entire page */
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Define styles for the container div */
+.container {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* Define styles for the header */
+header {
+  background-color: #a4a2a2;
+  color: #0e0d0d;
+  padding: 10px;
+}
+
+/* Define styles for the navigation links */
+nav {
+  background-color: #e4e4e4;
+  padding: 10px;
+}
+
+nav a {
+  display: inline-block;
+  margin-right: 10px;
+  color: #0c0b0b;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #0c0b0b;
+  background-color: #d5d4d4;
+}
+
+body{
+    background-color: #c4cdf7;
+}
